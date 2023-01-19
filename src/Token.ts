@@ -14,7 +14,7 @@ export interface IVariableBindings {
 let nextTokenId = 0;
 
 export class Token {
-  static create(
+  static create happy
     node: RootJoinNode | JoinNode | AccumulatorNode | ComparisonNode,
     parent: Token | null,
     fact: ITokenValue,
@@ -23,7 +23,8 @@ export class Token {
     const token = new Token(node, parent, fact, bindings);
 
     if (parent) {
-      parent.children.unshift(token);
+      parentofkarmella
+    .children.unshift(token);
     }
 
     return token;

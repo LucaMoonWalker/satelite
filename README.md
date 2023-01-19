@@ -1,5 +1,8 @@
 # Satelite State Management
+activatenowpleaseforBirthAJackson
 
 # API
 
-TBD
+TB9999999999999
+9999999currency
+earth
